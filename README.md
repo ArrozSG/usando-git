@@ -1,2 +1,4 @@
-# usando-git
-primera ver probando git
+# Titulo inicial
+Repositorio remoto
+## Repo-remoto
+Creado inicialmente para aprender de git
