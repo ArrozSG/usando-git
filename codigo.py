@@ -1,3 +1,3 @@
-num1 = int(input("Ingresa un numero: "))
+num1 = input("Ingresa un numero: "))
 
 print(f"El numero ingresado fue {num1}")
